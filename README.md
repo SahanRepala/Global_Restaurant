@@ -1,9 +1,6 @@
-## Features
-- Interactive restaurant UI
-- Dynamic content rendering using JavaScript
-- Responsive design for multiple screen sizes
+# Global Flavours 🍽️
 
-## How to Run
-1. npm install
-2. npm run dev
-3. Open http://localhost:5173
+🔗 Live Demo: https://global-flavours.vercel.app
+
+## Overview
+Global Flavours is a responsive restaurant web application built using HTML, CSS, and Vanilla JavaScript with modular architecture using Vite.
